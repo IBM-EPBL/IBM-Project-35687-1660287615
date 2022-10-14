@@ -14,3 +14,5 @@ User App (Mobile App):
 
 The app should have a user registration and login. After the user logged into the app it will track the user's location and update the database with the current location. If the user is visiting the containment zone he will get an alert notification
 
+
+
