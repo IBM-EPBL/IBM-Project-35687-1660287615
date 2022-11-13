@@ -6,9 +6,9 @@ Team ID : PNT2022TMID35197
 
 ### Team Members
  - Team Leader  : K R PRANAV KUMAR
- - Team member : V NATESH KRISHNAN
- - Team member : R JESON ANTO JOY
- - Team member : KARTHICKSARAN
+ - Team member :  V NATESH KRISHNAN
+ - Team member :  R JESON ANTO JOY
+ - Team member :  KARTHIKSARAN
 
 # Containment Zone Alerting Application
 ## Category: Cloud App Development <img src="https://media1.giphy.com/media/XFJdsVNbL5u8qvdj6s/giphy.gif?cid=ecf05e47kwl4ihcoglak9gqii0h0d6aj1n7erro9cyri6zrj&rid=giphy.gif&ct=s" width="30px">
