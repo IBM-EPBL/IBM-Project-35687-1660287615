@@ -5,8 +5,8 @@ Containment zone Alerting Application
 Team ID : PNT2022TMID17287
 
 ### Team Members
- - Team Leader  : K R PRANAV KUMAR
- - Team member :  V NATESH KRISHNAN
+ - Team Leader : V NATESH KRISHNAN
+ - Team member : K R PRANAV KUMAR 
  - Team member :  R JESON ANTO JOY
  - Team member :  KARTHIKSARAN
 
